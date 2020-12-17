@@ -1794,6 +1794,16 @@ input, select, textarea {
 		font-size: 2em;
 	}
 
+	.row {
+		clear: both
+	}
+
+	.column {
+		width: 33%;
+		float: right;
+		
+	}
+
 /* Form */
 
 	form {
