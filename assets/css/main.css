@@ -188,6 +188,11 @@ input, select, textarea {
 		top: -0.5em;
 	}
 
+	li {
+		color: #efefef;
+		list-style-type: none;
+	}
+
 	hr {
 		border: 0;
 		border-bottom: solid 2px #efefef;
