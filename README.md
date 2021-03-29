@@ -12,7 +12,7 @@
 
 ## Live Demo 🔴
 
-[Live Demo Link](https://haywhizzz.github.io/)
+[Live Demo Link](https://oyelekeayomide.me/)
 
 
 ## Getting Started 🏁
